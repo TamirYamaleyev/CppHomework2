@@ -130,10 +130,12 @@
     <ClCompile Include="DynamicIntArray.cpp" />
     <ClCompile Include="Fraction.cpp" />
     <ClCompile Include="Homework2.cpp" />
+    <ClCompile Include="Vector2D.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DynamicIntArray.h" />
     <ClInclude Include="Fraction.h" />
+    <ClInclude Include="Vector2D.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
